@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tim\'s Quizap</string>
+    <string name="MainActivity_username">Enter Your Name</string>
+    <string name="MainActivity_begin_quiz">Begin Quiz</string>
+    <string name="MainActivity_no_name">You Must Enter A Name To Begin</string>
+    <string name="MainActivity_name_too_long">Name must be under 35 characters!</string>
+    <string name="MainActivity_good_luck">Good luck with the quiz,</string>
+    <string name="PlayQuiz_quit_quiz">Quit The Quiz</string>
+    <string name="PlayQuiz_quit_msg">Better Luck Next Time!</string>
+    <string name="PlayQuiz_quiz_user">Player Name: </string>
+    <string name="PlayQuiz_quiz_score">Score: </string>
+    <string name="PlayQuiz_pick_answer">Pick An Answer For Question</string>
+    <string name="EndGame_finish">Finish</string>
+    <string name="EndGame_youscored">, you scored</string>
+</resources>
